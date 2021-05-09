@@ -13,3 +13,4 @@ check 2
 ## local dev.
 
 1. open index.html in your brouser.
+2. have fun
